@@ -84,7 +84,3 @@ The auto-save feature is implemented using a debounce mechanism that triggers a 
 ### Data Storage
 
 For simplicity, this implementation uses a file-based JSON storage system for the backend. In a production environment, you would want to replace this with a proper database like MongoDB or PostgreSQL.
-
-## License
-
-MIT
