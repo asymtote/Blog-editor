@@ -1,0 +1,56 @@
+[
+  {
+    "id": "b606b8cb-62a6-41f2-aafc-9fc70d45799a",
+    "title": "blog writing ",
+    "content": "<p>blog writing is important aspect in todays&nbsp;</p>",
+    "tags": [],
+    "status": "draft",
+    "created_at": "2025-05-16T07:59:41.605Z",
+    "updated_at": "2025-05-16T07:59:41.605Z"
+  },
+  {
+    "id": "37dd8533-f76d-4262-b7eb-aaf8de3fe988",
+    "title": "blog writing ",
+    "content": "<p>to write a blog these steps are necessary to write&nbsp;</p>\n<ol class=\"gs_cit_stry_pre gs_cit_stry_sm\">\n<li>\n<div class=\"gs_p\"><strong>Choose a topic</strong>: Select a subject that interests you and your readers.</div>\n</li>\n<li>\n<div class=\"gs_p\"><strong>Conduct research</strong>: Gather information and ideas related to your topic.</div>\n</li>\n<li>\n<div class=\"gs_p\"><strong>Create an outline</strong>: Organize your thoughts and structure your essay.</div>\n</li>\n<li>\n<div class=\"gs_p\"><strong>Write the first draft</strong>: Focus on getting your ideas down without worrying about details.</div>\n</li>\n<li>\n<div class=\"gs_p\"><strong>Revise and edit</strong>: Refine your essay, improve clarity, and fix any errors.</div>\n</li>\n<li>\n<div class=\"gs_p\"><strong>Review and finalize</strong>: Proofread for typos and other issues before publishing.</div>\n</li>\n</ol>",
+    "tags": [],
+    "status": "published",
+    "created_at": "2025-05-16T08:18:29.352Z",
+    "updated_at": "2025-05-16T08:20:54.381Z"
+  },
+  {
+    "id": "02dedd05-a9a6-490e-aefe-d698a29ab913",
+    "title": "blog one",
+    "content": "<p>im very interested to write a blog</p>",
+    "tags": [],
+    "status": "draft",
+    "created_at": "2025-05-16T08:41:57.293Z",
+    "updated_at": "2025-05-16T11:41:30.607Z"
+  },
+  {
+    "id": "ed7c6700-7cf9-4b4b-8744-237989bc7684",
+    "title": "blog writing 2",
+    "content": "<p>im exicted to share this blog this blog is a interesting one</p>",
+    "tags": [],
+    "status": "published",
+    "created_at": "2025-05-16T09:13:46.851Z",
+    "updated_at": "2025-05-16T09:13:55.596Z"
+  },
+  {
+    "id": "fcdf7dd2-ee02-4c3e-8324-d94acfaaa41a",
+    "title": "this is a blog",
+    "content": "<p>yes iam writing a blog</p>",
+    "tags": [],
+    "status": "draft",
+    "created_at": "2025-05-16T11:40:04.130Z",
+    "updated_at": "2025-05-16T11:40:45.213Z"
+  },
+  {
+    "id": "f3a12888-1c31-490b-abb8-1674ff1d112c",
+    "title": "blog 1",
+    "content": "<p>this is blog 1 im writing this content to check if the draft message is recurring or not</p>",
+    "tags": [],
+    "status": "draft",
+    "created_at": "2025-05-17T02:36:44.412Z",
+    "updated_at": "2025-05-17T02:36:44.412Z"
+  }
+]
